@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Starbucks Barista</string>
+    <string name="key">Key</string>
+    <string name="size_key">Drink Size Key</string>
+    <string name="pick">Pick Your Drink Size and Category!</string>
+    <string name="short_size">Short</string>
+    <string name="tall_size">Tall</string>
+    <string name="grande_size">Grande</string>
+    <string name="venti_size">Venti</string>
+    <string name="americano">Americano</string>
+    <string name="espresso">Espresso</string>
+    <string name="caramel">Caramel Apple Spice</string>
+    <string name="hot_chocolate">Hot Chocolate</string>
+    <string name="iced_drinks">Iced Drinks</string>
+    <string name="syrup_pumps">Syrup Pumps</string>
+    <string name="misc">MISC</string>
+    <string name="prev">Prev</string>
+    <string name="flip">Touch text to flip!</string>
+    <string name="next">Next</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_drink">DrinkActivity</string>
+</resources>
